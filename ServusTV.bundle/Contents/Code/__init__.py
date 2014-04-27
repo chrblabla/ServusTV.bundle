@@ -11,8 +11,8 @@ def LiveStream(include_container=False):
   vco = VideoClipObject(
     key = Callback(LiveStream, include_container=True),
     rating_key = STREAM_URL,
-    title = 'Watch ServusTV',
-    thumb = R('icon-default.png'),
+    title = 'ServusTV Live Stream',
+    thumb = R('art-default.jpg'),
     items = [
       MediaObject(
         parts = [

@@ -8,5 +8,5 @@ Copy the `ServusTV.bundle` file into the `Plug-ins` directory of your Plex Media
 
 ## TODO
 
-- Nicer (or at least any) artwork
+- Nicer artwork
 - Channel description
